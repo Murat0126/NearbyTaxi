@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">[ TAXI ]</string>
+    <string name="exit">Выход</string>
+    <string name="call_message">Вызвать такси?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="cancel">Отмена</string>
+</resources>
